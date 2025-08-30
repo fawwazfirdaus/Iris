@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, Iris!")
+            Text("Iris is an invisible companion that assists you in your daily life.")
         }
         .padding()
     }
